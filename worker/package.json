@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "publish": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.35.0"
+  }
+}

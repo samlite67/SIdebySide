@@ -1,0 +1,5 @@
+name = "my-proxy-worker"
+compatibility_date = "2024-10-01"
+
+[vars]
+TARGET_BASE = "https://api.openai.com/v1"
